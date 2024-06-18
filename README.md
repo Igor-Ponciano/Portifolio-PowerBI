@@ -1,37 +1,25 @@
 # Portfolio-PowerBI
 
-# Dashboard Análise de Tendências de Compras
+Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
+  •  [Dasboard Financeiro](https://github.com/Igor-Ponciano/Portfolio-PowerBI/tree/main/Dashboard%20Financeiro)
 
-Estrutura da base de dados
+# Dashboard Financeiro
 
-Arquivo em excel que contém inicialmente as seguintes colunas:
+![image](https://github.com/Igor-Ponciano/Portfolio-PowerBI/assets/166520357/e0b1906c-2ea5-4542-a1c9-3180b7000376)
 
-Id
+Acesse o dashboard completo [neste link](https://github.com/Igor-Ponciano/Portfolio-PowerBI/tree/main/Dashboard%20Financeiro)
 
-Idade
+# Estrutura da base de dados
 
-Genero
+Base de dados extraído pelo SQL Server Management que contém informações sobre:
 
-Salário
+  • Banco, Agência e Conta
+  
+  • Tipo (Cliente ou Fornecedor), Razão Social, Cidade e Estado
+  
+  • Extrato bancário com a data de entrada e/ou saída
+  
+  • Títulos de movimentações
 
-Educação
-
-Região
-
-Status de Fidelidade
-
-Frequencia de Compra
-
-Valor Compra
-
-Categoria do Produto
-
-Uso de Promoção
-
-Pontuação de Satisfação
-
-
-Nenhuma nova coluna foi criada a partir dos dados.
-
-Quantidade de dados: 100.000
+Quantidade de dados: ~15.000
