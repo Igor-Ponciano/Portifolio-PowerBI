@@ -8,7 +8,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 ![image](https://github.com/Igor-Ponciano/Portfolio-PowerBI/assets/166520357/e0b1906c-2ea5-4542-a1c9-3180b7000376)
 
-Acesse o dashboard completo [neste link](https://github.com/Igor-Ponciano/Portfolio-PowerBI/tree/main/Dashboard%20Financeiro)
+Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiM2FjOTdlZDMtYTIzZi00ZjdjLWI5NDktMDllZmJjZWQxNDYwIiwidCI6IjQ1NTM3MGU2LTZjOWUtNDlhMi05ZmM2LTQ5OTkyNzgyNzIxNCJ9)
 
 # Estrutura da base de dados
 
